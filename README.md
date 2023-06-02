@@ -18,15 +18,9 @@ FastAPI Google Spreadsheets API
 git clone https://github.com/your/repository.git
 ```
 
-2. Установить зависимости с помощью утилиты `pip`:
+2. Получить файл `credentials.json` для доступа к Google Spreadsheets API.
 
-```
-pip install -r requirements.txt
-```
-
-3. Получить файл `credentials.json` для доступа к Google Spreadsheets API.
-
-4. Убедиться, что файл `credentials.json` находится в одной директории со скриптом.
+3. Убедиться, что файл `credentials.json` находится в одной директории со скриптом.
 
 ## Запуск
 
