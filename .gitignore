@@ -1,0 +1,4 @@
+credentials.json
+.vscode
+__pycache__
+.DS_Store
